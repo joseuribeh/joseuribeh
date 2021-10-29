@@ -13,9 +13,10 @@ I am a passionate, self-taught FrontEnd Web Developer from Colombia 🇨🇴
 [![Jose Uribe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseuribeh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to reach me:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseuribeh)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseuribeh/)
 [![Twitter](https://img.shields.io/badge/joseuribeh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/joseuribeh)
+
+Or send me an email: joseuribeh@gmail.com
 
 ## Languages and tools
 
